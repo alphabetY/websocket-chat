@@ -1,2 +1,2 @@
 # websocket-chat
-ssm+mybatis
+ssm+websocket
